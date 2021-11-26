@@ -1,0 +1,32 @@
+[
+    {
+        "value": [ 1, 0, 0, 0, 0 ],
+        "repeat": 1,
+        "key": "a",
+        "keyCode": "KeyA"
+    },
+    {
+        "value": [ 0, 1, 0, 0, 0 ],
+        "repeat": 1,
+        "key": "h",
+        "keyCode": "KeyH"
+    },
+    {
+        "value": [ 0, 0, 1, 0, 0 ],
+        "repeat": 1,
+        "key": "j",
+        "keyCode": "KeyJ"
+    },
+    {
+        "value": [ 0, 0, 0, 1, 0 ],
+        "repeat": 1,
+        "key": "k",
+        "keyCode": "KeyK"
+    },
+    {
+        "value": [ 0, 0, 0, 0, 1 ],
+        "repeat": 1,
+        "key": "l",
+        "keyCode": "KeyL"
+    }
+]
